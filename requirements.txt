@@ -107,7 +107,7 @@ qtconsole==4.4.1
 QtPy==1.5.0
 requests==2.18.4
 rope==0.11.0
-rsa==3.4.2
+rsa==4.1
 ruamel-yaml==0.15.37
 s3transfer==0.1.11
 scandir==1.9.0
